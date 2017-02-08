@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ffmpegDecoder">
+</Property><Property Name="Solution File" Value="E:\SDL\ffmpegDecoder-vs2008\ffmpegDecoder.sln">
+</Property><Property Name="Date" Value="20 октября 2013 г.">
+</Property><Property Name="Time" Value="19:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ffmpegDecoder.sln" Description="File successfully backed up as E:\SDL\ffmpegDecoder-vs2008\ffmpegDecoder.sln.old">
+</Event><Event ErrorLevel="0" Project="ffmpegDecoder" Source="ffmpegDecoder\ffmpegDecoder.vcproj" Description="Converting project file 'E:\SDL\ffmpegDecoder-vs2008\ffmpegDecoder\ffmpegDecoder.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ffmpegDecoder" Source="ffmpegDecoder\ffmpegDecoder.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="ffmpegDecoder" Source="ffmpegDecoder\ffmpegDecoder.vcproj" Description="Done converting to new project file 'E:\SDL\ffmpegDecoder-vs2008\ffmpegDecoder\ffmpegDecoder.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ffmpegDecoder" Source="ffmpegDecoder\ffmpegDecoder.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ffmpegDecoder.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ffmpegDecoder.sln" Description="Converted">
+</Event></UpgradeLog>
